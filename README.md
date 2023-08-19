@@ -7,4 +7,4 @@ Developed for DBMS Assignment-1.
 ## Notes
 1. Yes, this is quite a simple, static and admittedly, bland website (minimalist aesthetic!); I may just develop this further to make it a better and more complete experience! Visually pleasing, better sections, a navbar and footer, more projects and experiences, maybe my own blog, and yes of course, actually deployed and accessible on the Internet.
 2. Some inspiration was taken from YouTube and my friends.
-3. I want this to be my ultimate web-development project- a storehouse of everything I do that I'd like to share with the world- from my coding endeavours to my writings, short films, graphic designs and more- all of it in one place.
+3. I want this to be my ultimate web-development project- a storehouse of everything I do that I'd like to share with the world- from my coding endeavours to my writings, short films, graphic designs and more- all of it at one place.
